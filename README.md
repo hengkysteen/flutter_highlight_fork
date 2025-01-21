@@ -1,7 +1,7 @@
 # flutter_highlight_fork
 
 This repository is a fork of the [flutter_highlight](https://github.com/git-touch/highlight.dart/tree/master/flutter_highlight) project.
-<img src="ss/flutter_highlight_fork.png" alt="Deskripsi Gambar" width="500" />
+<p><img src="ss/flutter_highlight_fork.png" alt="Deskripsi Gambar" width="500" /></P>
 
 ### Fork changes
 
@@ -14,11 +14,11 @@ This repository is a fork of the [flutter_highlight](https://github.com/git-touc
 - Add lazyLanguages:
   Optimized the Mode class instantiation to reduce the number of instances created.
 
-  Original :
-  <img src="ss/ori.png" alt="Deskripsi Gambar" width="300" />
-
-  Fork :
-  <img src="ss/fork.png" alt="Deskripsi Gambar" width="300" />
+<p>Original :</P>
+<img src="ss/ori.png" alt="Deskripsi Gambar" width="300" />
+<p></p>
+<p> Fork : </P>
+<img src="ss/fork.png" alt="Deskripsi Gambar" width="300" />
 
 ## Getting Started
 
